@@ -1,0 +1,18 @@
+Backend/
+
+# Python stuff
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js stuff (if frontend uses npm/yarn)
+frontend/node_modules/
+frontend/package-lock.json/
+frontend/src/Components/About
+frontend/src/Components/Auth
+dist/
+build/
+
+# IDE/Editor
+.vscode/
+.idea/
