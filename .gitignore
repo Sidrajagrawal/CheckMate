@@ -1,0 +1,15 @@
+# Frontend
+frontend/node_modules/
+frontend/package-lock.json
+frontend/README.md
+
+# Backend
+backend/node_modules/
+backend/package-lock.json
+backend/.env
+
+# ML Worker
+ml_worker/__pycache__/
+ml_worker/ml_models/
+ml_worker/myenv/
+ml_worker/.env

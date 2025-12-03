@@ -1,0 +1,9 @@
+redis
+pymongo
+youtube-transcript-api
+transformers
+torch
+pytesseract
+pillow
+requests
+dotenv
